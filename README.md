@@ -11,6 +11,8 @@ How to run:
 
 4. Open your browser's console and view the logged results as the chores run.
 
+5. Refresh the page to retry.
+
 Refrences: 
 
 Loosely referenced a tutorial from the 'Bro Code' youtube channel on callback functions. 
