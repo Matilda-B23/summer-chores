@@ -1,5 +1,5 @@
 # Summer Chores
-Utilizes Javascript by having created a list of summer chores to be done as functions, and assign a random number chance of failing, or moving onto the next task. Displays knowledge in use of callback functions, random number generation, and set timeout methods to simulate asynchronus behavior.
+Utilizes Javascript by having created a list of summer chores to be done as functions, and assign a random number chance of failing, or moving onto the next task. Displays knowledge in use of callback functions, as well as promises. Uses random number generation, and set timeout methods to simulate asynchronus behavior.
 
 How to run:
 
@@ -15,4 +15,4 @@ How to run:
 
 Refrences: 
 
-Loosely referenced a tutorial from the 'Bro Code' youtube channel on callback functions. 
+Loosely referenced a tutorial from the 'Bro Code' youtube channel on callback functions, also referenced their video on promises. 
