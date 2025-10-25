@@ -13,6 +13,8 @@ How to run:
 
 5. Refresh the page to retry.
 
+*Optionally, you can replace the name parameter with your own!* 
+
 Refrences: 
 
-Loosely referenced a tutorial from the 'Bro Code' youtube channel on callback functions, also referenced their video on promises. 
+Loosely referenced a tutorial from the 'Bro Code' youtube channel on callback functions, their video on promises and their video on async and await functions. 
